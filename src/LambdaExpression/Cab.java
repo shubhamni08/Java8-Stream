@@ -3,6 +3,6 @@ package LambdaExpression;
 @FunctionalInterface
 public interface Cab {
 	
-	public void bookCab();
+	public void bookCab();	// Single abstract method
 
 }
