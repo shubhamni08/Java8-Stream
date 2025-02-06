@@ -1,5 +1,10 @@
 package LambdaExpression;
 
+@FunctionalInterface
+interface Square {
+	int calculate(int a);	//single abstract method
+}
+
 public class SquareExample {
 
 	public static void main(String[] args) {

@@ -1,5 +1,12 @@
 package LambdaExpression;
 
+@FunctionalInterface
+interface Cab {
+	
+	public void bookCab();	// Single abstract method
+
+}
+
 public class Demo1 implements Cab{
 
 	//without lambda expression
