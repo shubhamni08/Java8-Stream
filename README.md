@@ -1,7 +1,7 @@
  <h2>Java 8 Features</h2>
         <p>Java 8 introduced functional programming and many new features to improve performance and readability.</p>
         <hr>
-        <h3>Key Features :</h3>
+        <h3>Key Features : </h3>
         <ul>
             <li>Functional Interfaces & Lambda Expressions</li>
             <li>Default and Static Methods in Interfaces</li>
